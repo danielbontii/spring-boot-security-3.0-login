@@ -30,5 +30,6 @@ Test the endpoints
 2. [Spring Boot 3.0 + Spring Security 6 | JWT Authentication & Authorization | JavaTechie](https://www.youtube.com/watch?v=NcLtLZqGu2M&t=33s)
 3. [JwtUtils](https://github.com/koushikkothagal/spring-security-jwt/blob/master/src/main/java/io/javabrains/springsecurityjwt/util/JwtUtil.java)
 Note that the deprecated methods in the Jwt Utils repo were fixed replaced by javatechie.
+4. [Spring Security Tutorial - [NEW] [2023]](https://www.youtube.com/watch?v=b9O9NI-RJ3o&t=2040s)
 
 
