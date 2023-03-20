@@ -1,0 +1,17 @@
+spring.datasource.driver-class-name=
+spring.jpa.database=
+spring.sql.init.platform=
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+spring.jpa.generate-ddl=true
+spring.jpa.hibernate.ddl-auto=update
+
+#server.servlet.context-path=/api/v1
+
+#Must be a 256-bit, hex
+#Example random value
+jwt.secret=73367639792F423F4528482B4D6251655468576D5A7134743777217A25432646
+
+
